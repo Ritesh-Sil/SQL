@@ -1,4 +1,10 @@
 /*
+Acknowledgement and Ref : 
+I am thankful to the awsome portal *learnsql.com* for this wonderful sereis of concepts and exercises regarding the sql.
+*/
+
+
+/*
 Ranking functions - introduction
 
 Now, we'll practice different functions that go well with OVER() – ranking functions. 
