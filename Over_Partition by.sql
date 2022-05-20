@@ -1,4 +1,13 @@
 /*
+Acknowledgement and Ref : 
+
+I am thankful to the awsome portal *learnsql.com* for this wonderful sereis of concepts and exercises regarding the sql.
+
+
+*/
+
+
+/*
 Exercise :- 
 Show the id of each journey, its date and the number of journeys that took place on that date.
 
