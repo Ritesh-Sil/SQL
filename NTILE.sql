@@ -1,4 +1,9 @@
 /*
+Acknowledgement and Ref : 
+I am thankful to the awsome portal *learnsql.com* for this wonderful sereis of concepts and exercises regarding the sql.
+*/
+
+/*
 
 NTILE(X)
 
